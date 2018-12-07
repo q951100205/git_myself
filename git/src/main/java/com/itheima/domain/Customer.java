@@ -6,9 +6,5 @@ package com.itheima.domain;
  * author:     GXL
  * date:     2018/12/7
  */
-public class User {
-    private Integer id;
-    private String name;
-    private String address;
-    private Long money;
+public class Customer {
 }
